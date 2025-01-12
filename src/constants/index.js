@@ -187,7 +187,7 @@ const testimonials = [
     name: "Ganesh Samgir",
     designation: "Senior Developer",
     company: "WhiteCode",
-    image: "public/ganesh.jpg",
+    image: "/ganesh.jpg",
   }, {
     testimonial:
       "Omkar is a skilled developer in React, AngularJS, PHP, and SQL, creating efficient solutions.",
