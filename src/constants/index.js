@@ -178,7 +178,7 @@ const testimonials = [
     name: "Dattatray Laykar",
     designation: "Team Lead",
     company: "WhiteCode",
-    image: "public/Datta.jpg",
+    image: "/Datta.jpg",
 
   },
   {
@@ -194,7 +194,7 @@ const testimonials = [
     name: "Shubham Gaikwad",
     designation: "Collegue",
     company: "WhiteCode",
-    image: "public/shubham.jpg",
+    image: "/shubham.jpg",
   },
 
 
